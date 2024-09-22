@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, Dung here 👋
+> **“If debugging is the process of removing software bugs, then programming must be the process of putting them in.”**  
+> — *Edsger Dijkstra*  
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguu0123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nguu0123's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguu0123&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
