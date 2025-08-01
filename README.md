@@ -1,6 +1,7 @@
 ## Hi there, Dung here 👋  
-> **“If debugging is the process of removing software bugs, then programming must be the process of putting them in.”**  
-> — *Edsger Dijkstra*
+Current favorite quote:
+> **“In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it. Of course, you seldom, if ever, see either pure state.”**  
+> — *Richard Hamming*
 
 ### About Me  
 I'm a **Master's student in Computer Science** at **Aalto University**, with a focus on distributed systems, algorithms, and AI/ML. I'm also a **Research Assistant** working on **IoT-Edge-Cloud technologies** and **Machine Learning**. The avatar is **not** the real me, this is me everyday:
