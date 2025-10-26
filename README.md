@@ -19,5 +19,4 @@ I'm a **Master's student in Computer Science** at **Aalto University**, with a f
 - **OS**: ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 - **Tools**: ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguu0123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="nguu0123's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguu0123&layout=compact&theme=buefy&hide_border=true" /></a> |  
-| ------------- | ------------- |
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=nguu0123)](https://github.com/LordDashMe/github-contribution-stats/) 
