@@ -4,7 +4,7 @@ Current favorite quote:
 > — *Richard Hamming*
 
 ### About Me  
-I'm a **Master's student in Computer Science** at **Aalto University**, with a focus on distributed systems, algorithms, and AI/ML. I'm also a **Research Assistant** working on **IoT-Edge-Cloud technologies** and **Machine Learning**. The avatar is **not** the real me, this is me everyday:
+Right now working as SWE at GreenFactory AI and just graduated **MSC in Computer Science** at **Aalto University**, previously I worked a **Research Assistant** working on **IoT-Edge-Cloud technologies** and **Machine Learning**. The avatar is **not** the real me, this is me everyday:
 
 ![](https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif)
 
