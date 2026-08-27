@@ -9,8 +9,10 @@ Right now working as SWE at GreenFactory AI and just graduated **MSC in Computer
 ![](https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif)
 
 ### Experience  
+- **Software Engineer @ GreenFactory AI**  
+  *Dec 2025 – Present*  
 - **Research Assistant @ Aalto University, AaltoSEA group**  
-  *Feb 2024 – Present*  
+  *Feb 2024 – December 2025*  
 - **Graduate Analyst Developer @ FNZ Group**  
   *Nov 2022 – Oct 2023*
   
